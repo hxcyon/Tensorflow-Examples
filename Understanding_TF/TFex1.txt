@@ -1,0 +1,6 @@
+The goal of this experiment is to understand the structure of Tensorflow
+Let's say we have the cost function eq:
+J(w) = w**2 - 10*w + 25
+--> (w - 5)**2
+--> w = 5
+If we train our model, we should be able to get a value approx to 5
